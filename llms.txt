@@ -1,0 +1,10 @@
+# OmniSkill-template
+
+> Omni template: OmniSkill project scaffold implementing the WyattAu
+> OMNI-CORE contract (scripts canonical, Nix devShell, merged CI gate matrix,
+> agent-facing AGENTS.md). Derived repos inherit the shared docs gate
+> (WyattAu/spec-standards) and the spec/doc skeletons under docs/templates/.
+
+- [README](README.md): what the scaffold creates and how to derive a repo
+- [AGENTS](AGENTS.md): contract inherited by derived repos
+- docs/templates: SPEC, TRUTH-TABLE, RESEARCH_LOG, ADR skeletons (SPEC-CORE)
